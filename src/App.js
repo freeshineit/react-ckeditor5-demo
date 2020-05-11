@@ -9,7 +9,7 @@ import Essentials from "@ckeditor/ckeditor5-essentials/src/essentials";
 import Bold from "@ckeditor/ckeditor5-basic-styles/src/bold";
 import Italic from "@ckeditor/ckeditor5-basic-styles/src/italic";
 import Paragraph from "@ckeditor/ckeditor5-paragraph/src/paragraph";
-import "@ckeditor/ckeditor5-build-classic/build/translations/zh-cn"; // 语言包
+import "./language/zh-cn"; // 语言包
 
 import UploadAdapter from "@ckeditor/ckeditor5-adapter-ckfinder/src/uploadadapter";
 import Autoformat from "@ckeditor/ckeditor5-autoformat/src/autoformat";
